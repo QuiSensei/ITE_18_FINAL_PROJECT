@@ -1,5 +1,5 @@
 switch(room){
-	case rm_title:
+	case rm_menu:
 		game_end();
 		break;
 	case rm_game:
@@ -7,7 +7,7 @@ switch(room){
 			bestiary_toggle();
 		}
 		else{
-			room_goto(rm_title);
+			room_goto(rm_menu);
 		}
 		break;
 }

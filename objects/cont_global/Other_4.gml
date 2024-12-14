@@ -1,5 +1,5 @@
 switch(room){
-	case rm_title:
+	case rm_menu:
 		global.waterline = 0;
 		scr_bgm_mode(MUSICMODE.under);
 		break;
