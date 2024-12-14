@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"tweentype_linear",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"tweentype_linear",
+  "parent":{
+    "name":"Types",
+    "path":"folders/Scripts/Util/Tween/Types.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

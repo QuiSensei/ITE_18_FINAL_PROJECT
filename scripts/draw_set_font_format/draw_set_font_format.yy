@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"draw_set_font_format",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"draw_set_font_format",
+  "parent":{
+    "name":"Draw",
+    "path":"folders/Scripts/Util/Draw.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

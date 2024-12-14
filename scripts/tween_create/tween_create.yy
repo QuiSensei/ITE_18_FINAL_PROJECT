@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"tween_create",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"tween_create",
+  "parent":{
+    "name":"Tween",
+    "path":"folders/Scripts/Util/Tween.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"bestiary_view",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"bestiary_view",
+  "parent":{
+    "name":"Bestiary",
+    "path":"folders/Scripts/Menu/Bestiary.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"make_bubbles",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"make_bubbles",
+  "parent":{
+    "name":"Effects",
+    "path":"folders/Scripts/Effects.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

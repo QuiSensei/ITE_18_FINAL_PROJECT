@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"tweentype_out_back_cubic",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"tweentype_out_back_cubic",
+  "parent":{
+    "name":"Types",
+    "path":"folders/Scripts/Util/Tween/Types.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

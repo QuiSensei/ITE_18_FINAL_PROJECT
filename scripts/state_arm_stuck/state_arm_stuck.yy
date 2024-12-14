@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"state_arm_stuck",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"state_arm_stuck",
+  "parent":{
+    "name":"Arm",
+    "path":"folders/Scripts/States/Arm.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

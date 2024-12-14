@@ -1,0 +1,1 @@
+sm_end_draw(arm_sm);

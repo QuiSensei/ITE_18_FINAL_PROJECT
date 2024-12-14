@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"state_bird_fly",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"state_bird_fly",
+  "parent":{
+    "name":"Bird",
+    "path":"folders/Scripts/States/Creature/Bird.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

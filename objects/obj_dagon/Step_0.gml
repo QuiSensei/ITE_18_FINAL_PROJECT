@@ -1,0 +1,1 @@
+image_index = achievement_is_earned("Dream No More");

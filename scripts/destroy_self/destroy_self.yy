@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"destroy_self",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"destroy_self",
+  "parent":{
+    "name":"Notice",
+    "path":"folders/Scripts/Menu/Notice.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

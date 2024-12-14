@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"achievements_toggle",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"achievements_toggle",
+  "parent":{
+    "name":"Achievements",
+    "path":"folders/Scripts/Menu/Achievements.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

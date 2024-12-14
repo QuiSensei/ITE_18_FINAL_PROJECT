@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"state_creature_grabbed",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"state_creature_grabbed",
+  "parent":{
+    "name":"Creature",
+    "path":"folders/Scripts/States/Creature.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

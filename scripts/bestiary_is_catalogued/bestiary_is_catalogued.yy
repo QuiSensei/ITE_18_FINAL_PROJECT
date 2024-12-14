@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"bestiary_is_catalogued",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"bestiary_is_catalogued",
+  "parent":{
+    "name":"Bestiary",
+    "path":"folders/Scripts/Menu/Bestiary.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

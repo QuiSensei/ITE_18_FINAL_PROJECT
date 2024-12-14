@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"state_arm_describe",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"state_arm_describe",
+  "parent":{
+    "name":"Arm",
+    "path":"folders/Scripts/States/Arm.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"state_player_sea",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"state_player_sea",
+  "parent":{
+    "name":"Player",
+    "path":"folders/Scripts/States/Player.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

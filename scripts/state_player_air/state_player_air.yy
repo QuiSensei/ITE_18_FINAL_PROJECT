@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"state_player_air",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"state_player_air",
+  "parent":{
+    "name":"Player",
+    "path":"folders/Scripts/States/Player.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

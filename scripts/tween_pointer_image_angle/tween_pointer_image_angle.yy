@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"tween_pointer_image_angle",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"tween_pointer_image_angle",
+  "parent":{
+    "name":"Pointers",
+    "path":"folders/Scripts/Util/Tween/Pointers.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

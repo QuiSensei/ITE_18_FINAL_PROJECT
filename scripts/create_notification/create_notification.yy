@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"create_notification",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"create_notification",
+  "parent":{
+    "name":"Notice",
+    "path":"folders/Scripts/Menu/Notice.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

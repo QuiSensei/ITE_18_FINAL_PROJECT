@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"state_fish_swim",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"state_fish_swim",
+  "parent":{
+    "name":"Fish",
+    "path":"folders/Scripts/States/Creature/Fish.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

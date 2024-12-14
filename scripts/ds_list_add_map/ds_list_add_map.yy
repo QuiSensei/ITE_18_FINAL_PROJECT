@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"ds_list_add_map",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"ds_list_add_map",
+  "parent":{
+    "name":"DS",
+    "path":"folders/Scripts/Util/DS.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
