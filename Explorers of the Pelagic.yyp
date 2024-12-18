@@ -5,7 +5,9 @@
     {"$GMAudioGroup":"","%Name":"audiogroup_default","name":"audiogroup_default","resourceType":"GMAudioGroup","resourceVersion":"2.0","targets":-1,},
   ],
   "configs":{
-    "children":[],
+    "children":[
+      {"children":[],"name":"NewConfig1",},
+    ],
     "name":"Default",
   },
   "defaultScriptType":1,
@@ -195,8 +197,6 @@
     {"id":{"name":"snd_bgm_over","path":"sounds/snd_bgm_over/snd_bgm_over.yy",},},
     {"id":{"name":"snd_bgm_under","path":"sounds/snd_bgm_under/snd_bgm_under.yy",},},
     {"id":{"name":"bg_sky","path":"sprites/bg_sky/bg_sky.yy",},},
-    {"id":{"name":"button__1_","path":"sprites/button__1_/button__1_.yy",},},
-    {"id":{"name":"button__2_","path":"sprites/button__2_/button__2_.yy",},},
     {"id":{"name":"spr_arm","path":"sprites/spr_arm/spr_arm.yy",},},
     {"id":{"name":"spr_arrow","path":"sprites/spr_arrow/spr_arrow.yy",},},
     {"id":{"name":"spr_balloon","path":"sprites/spr_balloon/spr_balloon.yy",},},
