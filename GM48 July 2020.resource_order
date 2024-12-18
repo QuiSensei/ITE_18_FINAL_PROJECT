@@ -134,6 +134,8 @@
     {"name":"tweentype_out_back_cubic","order":6,"path":"scripts/tweentype_out_back_cubic/tweentype_out_back_cubic.yy",},
     {"name":"tweentype_sqr","order":5,"path":"scripts/tweentype_sqr/tweentype_sqr.yy",},
     {"name":"snd_bgm_over","order":1,"path":"sounds/snd_bgm_over/snd_bgm_over.yy",},
+    {"name":"button__1_","order":2,"path":"sprites/button__1_/button__1_.yy",},
+    {"name":"button__2_","order":3,"path":"sprites/button__2_/button__2_.yy",},
     {"name":"spr_arm","order":1,"path":"sprites/spr_arm/spr_arm.yy",},
     {"name":"spr_arrow","order":2,"path":"sprites/spr_arrow/spr_arrow.yy",},
     {"name":"spr_balloon","order":3,"path":"sprites/spr_balloon/spr_balloon.yy",},
